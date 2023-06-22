@@ -1,0 +1,64 @@
+{
+  "name": "social",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@heroicons/react": "^2.0.18",
+    "@material-ui/core": "^4.12.4",
+    "@mui/material": "^5.13.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.4.0",
+    "country-flag-icons": "^1.5.7",
+    "faker": "^6.6.6",
+    "heroicons": "^2.0.18",
+    "js-file-download": "^0.4.12",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-flags-select": "^2.2.3",
+    "react-modal": "^3.16.1",
+    "react-phone-number-input": "^3.2.23",
+    "react-redux": "^8.0.7",
+    "react-router": "^6.11.1",
+    "react-router-dom": "^6.11.1",
+    "react-scripts": "5.0.1",
+    "react-select-country-list": "^2.2.3",
+    "react-use-path": "^0.3.1",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.2",
+    "state-pool": "^0.10.0",
+    "uuid": "^9.0.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://10.10.17.52:5000"
+}

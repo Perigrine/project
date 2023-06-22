@@ -1,0 +1,43 @@
+label {
+  background: none;
+  border-radius: 0px 50px 50px 0px;
+  width: 300px;
+  padding: 10px;
+  color: #131f60;
+  font-size: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+input[type="radio"] {
+  visibility: hidden;
+}
+
+input {
+  outline: none;
+}
+
+input:checked ~ label {
+  color: white;
+  background: linear-gradient(180deg, #b947f2 0%, #5a3af8 100%);
+}
+
+input:hover ~ label {
+  background: linear-gradient(180deg, #e5b9fb 0%, #ae9ffb 100%);
+}
+
+.btn {
+  background: linear-gradient(180deg, #b947f2 0%, #5a3af8 100%);
+  color: rgb(219, 202, 255);
+  padding: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.scrollcontainer {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+.scrollcontainer::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}

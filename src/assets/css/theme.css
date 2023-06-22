@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: auto;
+  margin: auto;
+}
+
+.container {
+  width: 100%;
+}
+
+.col {
+  content: none;
+  clear: both;
+}
+
