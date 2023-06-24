@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Perigrine/project/static/css/main.0820feea.css",
+    "main.js": "/Perigrine/project/static/js/main.ac0fc587.js",
+    "static/js/787.9181411e.chunk.js": "/Perigrine/project/static/js/787.9181411e.chunk.js",
+    "static/media/phoneJohn.png": "/Perigrine/project/static/media/phoneJohn.5c3f44ccc9f727cb6560.png",
+    "static/media/avatar.png": "/Perigrine/project/static/media/avatar.4dff01374ae6f2170671.png",
+    "static/media/coaching.png": "/Perigrine/project/static/media/coaching.62b72165e0094aae500e.png",
+    "static/media/videoaudit.png": "/Perigrine/project/static/media/videoaudit.e7b5f9ad5e595b9f3624.png",
+    "static/media/podcast.png": "/Perigrine/project/static/media/podcast.4817985eb3f0098663d4.png",
+    "static/media/steps.png": "/Perigrine/project/static/media/steps.7c85dc8fa61e45a92c13.png",
+    "static/media/phone.png": "/Perigrine/project/static/media/phone.7033edd05783c73d04e2.png",
+    "static/media/website.png": "/Perigrine/project/static/media/website.dee25e61c23d2a6b6457.png",
+    "static/media/John.png": "/Perigrine/project/static/media/John.2245235e438ff6c033cf.png",
+    "static/media/starterguide.png": "/Perigrine/project/static/media/starterguide.1d5e7a402f2b0d8eab6f.png",
+    "static/media/logo.svg": "/Perigrine/project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Perigrine/project/index.html",
+    "main.0820feea.css.map": "/Perigrine/project/static/css/main.0820feea.css.map",
+    "main.ac0fc587.js.map": "/Perigrine/project/static/js/main.ac0fc587.js.map",
+    "787.9181411e.chunk.js.map": "/Perigrine/project/static/js/787.9181411e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0820feea.css",
+    "static/js/main.ac0fc587.js"
+  ]
+}
