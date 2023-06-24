@@ -67,6 +67,6 @@
   "proxy": "http://10.10.17.52:5000",
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  },
+  }
 
 }
